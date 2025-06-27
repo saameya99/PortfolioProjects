@@ -1,9 +1,12 @@
-# Data Analysis Portfolio Projects
+# Product Analyst Portfolio Projects
 
 
 ## Technologies Used
 
 - SQL server
+- Power BI
+- Jira
+- Notion
 - MS Excel
 - NumPy
 - Matplotlib
